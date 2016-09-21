@@ -69,7 +69,7 @@ What are the commands to drop, create and migrate a database? (3 bullet points)
 // your response here
 ```
 
-What is the command to scaffold a pet with a name and an age attributes (hint:
+What is the command to scaffold a pet with a name and age attributes (hint:
 Also think of the data types for each attribute)?
 
 ```bash
